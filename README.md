@@ -7,13 +7,15 @@
 - Remove vendor from the Employee table as you can access the data via the Event Detail entity.
 
 ### Question 2
-SELECT movie_name, tickets_sold, genre, view_date FROM movies;
+``` SELECT movie_name, tickets_sold, genre, view_date FROM movies; ```
+
 <a href="https://imgur.com/7LxHJEv"><img src="https://i.imgur.com/7LxHJEv.png" title="source: imgur.com" /></a>
 
 ## Back-end Code Challenges
 
 ### Question 1
 Compile "question1.exe" by running mcs question1.cs.
+
 Run the executable by running mono question1.exe
 
 ### Question 2
