@@ -1,0 +1,1 @@
+SELECT movie_name, tickets_sold, genre, view_date FROM movies;

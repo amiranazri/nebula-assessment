@@ -1,0 +1,5 @@
+/Applications/MAMP/htdocs/nebula/obj/Debug/net5.0/nebula.csproj.AssemblyReference.cache
+/Applications/MAMP/htdocs/nebula/obj/Debug/net5.0/nebula.GeneratedMSBuildEditorConfig.editorconfig
+/Applications/MAMP/htdocs/nebula/obj/Debug/net5.0/nebula.AssemblyInfoInputs.cache
+/Applications/MAMP/htdocs/nebula/obj/Debug/net5.0/nebula.AssemblyInfo.cs
+/Applications/MAMP/htdocs/nebula/obj/Debug/net5.0/nebula.csproj.CoreCompileInputs.cache
